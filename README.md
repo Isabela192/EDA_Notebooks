@@ -1,3 +1,3 @@
-# Exploratory Data Analysis 
+# Some simple things made with Python
 
-Here are some notebooks of simple EDA that I've done with multiple types of data
+Here I keep some small projects that I've built
