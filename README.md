@@ -1,3 +1,6 @@
-# Some simple things made with Python
+# Exploratory Data Analysis
 
-Here I keep some small projects that I've built
+Putting together a few ongoing projects of EDA.
+
+Will add a project toml latter on when all the dependecies decide 
+to cooperate... ¬¬
